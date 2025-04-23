@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Apr 2025 21:00:54 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 21:15:45 +0300</lastBuildDate>
     <atom:link href="https://testukas628.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antras</title>
+      <link>https://testukas628.github.io/posts/antras/</link>
+      <pubDate>Wed, 23 Apr 2025 21:15:45 +0300</pubDate>
+      <guid>https://testukas628.github.io/posts/antras/</guid>
+      <description>&lt;p&gt;antras&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://testukas628.github.io/images/paveiksliukas.jpg&#34; alt=&#34;labu dienu&#34;&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;kodas yippy&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Pabandymui</title>
       <link>https://testukas628.github.io/posts/pabandymui/</link>
